@@ -5,3 +5,5 @@ KIND Cluster Setup Guide
 3. Access the Cluster
 4. Deploy Kubernetes Dashboard
 5. Delete the Cluster
+
+[📄 KIND Cluster Setup Guide handson](./.docs/kind-cluster-setup.pdf)
